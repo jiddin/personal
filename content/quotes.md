@@ -10,6 +10,14 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "The future is already here – it's just not evenly distributed."
 {{< /blockquote >}}
 
+{{< blockquote author="Paul Kalanithi" >}}
+“You can't ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving.”
+{{< /blockquote >}}
+
+{{< blockquote author="Charlotte Bronte" >}}
+"Life is so constructed, that the event does not, cannot, will not, match the expectation."
+{{< /blockquote >}}
+
 {{< blockquote author="Charlie Munger" >}}
 "I think a life properly lived is just learn, learn, learn all the time." 
 {{< /blockquote >}}
