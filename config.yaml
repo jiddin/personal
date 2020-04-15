@@ -17,7 +17,7 @@ imaging:
   quality: 99
 
 params:
-  description: Exploring vs Exploiting 
+  #description: Exploring vs Exploiting 
   homeMetaContent: Ready Player One.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
