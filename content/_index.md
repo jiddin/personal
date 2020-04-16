@@ -8,6 +8,4 @@ Welcome to my tiny corner of digital existence.
 
 [Bookshelf](books)
 
-[Bucket list](https://www.notion.so/My-borderline-ambitious-list-of-things-I-want-to-do-fabda6a087b949e5a33b97aec75bb908)
-
 [Quotes](quotes)
