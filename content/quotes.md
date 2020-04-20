@@ -1,6 +1,5 @@
 ---
 title: "Assorted collection of favorite quotes"
-tags: ["quotes"]
 ---
 {{< warning >}}
 Please do reach out if you find any discrepancies or errors regarding the correct attribution of quotes.

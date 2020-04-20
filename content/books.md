@@ -1,6 +1,5 @@
 ---
 title: "Bookshelf"
-tags: ["books"]
 ---
 
 {{< blockquote author="P.J. O’Rourke" >}}
