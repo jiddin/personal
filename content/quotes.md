@@ -45,6 +45,10 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "Intelligence is the ability to adapt to change."
 {{< /blockquote >}}
 
+{{< blockquote author="Blaise Pascal" >}}
+"All of humanity's problems stem from man's inability to sit quietly in a room alone."
+{{< /blockquote >}}
+
 {{< blockquote author="Edward O. Wilson" >}}
 "The real problem of humanity is the following: we have paleolithic emotions; medieval institutions; and god-like technology."
 {{< /blockquote >}}
@@ -128,5 +132,10 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 {{< blockquote author="Jim Rohn" >}}
 "Success is not to be pursued; it is to be attracted by the person you become."
 {{< /blockquote >}}
+
+{{< blockquote author="George Bernard Shaw" >}}
+"The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." 
+{{< /blockquote >}}
+
 
 
