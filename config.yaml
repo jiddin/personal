@@ -32,9 +32,6 @@ menu:
     - name: Posts
       url: /post/
       weight: 2
-    - name: Tags
-      url: /tags/
-      weight: 3
    # - name: Blog
     #  url: https://blog.jidin.xyz/
      # weight: 4
