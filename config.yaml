@@ -4,6 +4,7 @@ defaultContentLanguage: en
 title: Jidin Dinesh
 theme: cupper-hugo-theme
 googleAnalytics: UA-131823651-1
+enableEmoji: true
 disqusShortname: 
 enableGitInfo: true
 
