@@ -54,10 +54,6 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 {{< /blockquote >}}
 
 {{< blockquote author="Shane Parrish" >}}
-“Reducing friction is easier than adding force.”
-{{< /blockquote >}}
-
-{{< blockquote author="Shane Parrish" >}}
 "Avoiding stupidity is easier than seeking brilliance.”
 {{< /blockquote >}}
 
@@ -123,10 +119,6 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 
 {{< blockquote author="Niels Bohr" >}}
 "We are all agreed that your theory is crazy. The question that divides us is whether it is crazy enough to have a chance of being correct."
-{{< /blockquote >}}
-
-{{< blockquote author="Elizabeth Gilbert" >}}
-“Stop wearing your wishbone where your backbone ought to be.”
 {{< /blockquote >}}
 
 {{< blockquote author="Jim Rohn" >}}
