@@ -21,10 +21,6 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "I think a life properly lived is just learn, learn, learn all the time." 
 {{< /blockquote >}}
 
-{{< blockquote author="Charlie Munger" >}}
-“The safest way to get what you want is to deserve what you want.”
-{{< /blockquote >}}
-
 {{< blockquote author="Mark Twain" >}}
 "There is no such thing as a new idea. It is impossible. We simply take a lot of old ideas and put them into a sort of mental kaleidoscope. We give them a turn and they make new and curious combinations. We keep on turning and making new combinations indefinitely; but they are the same old pieces of colored glass that have been in use through all the ages."
 {{< /blockquote >}}
@@ -91,10 +87,6 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 
 {{< blockquote author="Alfred North Whitehead" >}}
 ”Civilization advances by extending the number of important operations which we can perform without thinking of them.”
-{{< /blockquote >}}
-
-{{< blockquote author="Carl Winfeld" >}}
-"We're even wrong about which mistakes we're making."
 {{< /blockquote >}}
 
 {{< blockquote author="Jan Houtema" >}}
