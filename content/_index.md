@@ -2,7 +2,7 @@
 date: ""
 title: "Hi, I'm Jidin"
 ---
-> Need to reach me? **jidin [at] protonmail [dot] com**
+> Need to reach me? **jidin [at] pm [dot] me**
 
 Welcome to my tiny corner of digital existence. 
 
