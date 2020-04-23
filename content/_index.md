@@ -15,7 +15,8 @@ If you ended up here without any intention or knowing me at all, here is a littl
 What I'm up to now
 ---
 
-**Intellectual Loonshot** :- learning subjects as `[inter|multi]` disciplinary as possible. The present catalogue includes machine learning, robotics, nanotech, aerospace engineering, bioinformatics, genomics, math {linear algebra, stats and probability} and finance.
+**Intellectual Loonshot**</br>
+Learning subjects as `[inter|multi]` disciplinary as possible. The catalogue includes machine learning, robotics, nanotech, aerospace engineering, bioinformatics, genomics, math {linear algebra, stats and probability} and finance. The motivation is to be a generalist over a specialist and go beyond the world of computers.
 
 > Need to reach me? **jidin [at] pm [dot] me**
 
