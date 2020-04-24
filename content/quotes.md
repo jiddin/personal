@@ -69,10 +69,6 @@ Please do reach out if you find any discrepancies or errors regarding the correc
  “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”
 {{< /blockquote >}}
 
-{{< blockquote author="Ronald A. Heifetz" >}}
-"What people resist is not change per se, but loss."
-{{< /blockquote >}}
-
 {{< blockquote author="Seneca" >}}
 “It’s difficult to find happiness within oneself, but it’s impossible to find it anywhere else.”
 {{< /blockquote >}}
