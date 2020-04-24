@@ -33,7 +33,7 @@ menu:
     - name: Posts
       url: /post/
       weight: 2
-   - name: Blog
+    - name: Blog
       url: https://blog.jidin.xyz/
       weight: 3
     #- name: About
