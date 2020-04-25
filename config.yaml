@@ -33,12 +33,9 @@ menu:
     - name: Posts
       url: /post/
       weight: 2
-    - name: Blog
-      url: https://blog.jidin.xyz/
-      weight: 3
     #- name: About
      # url: /about/
-     # weight: 5
+     # weight: 3
 
 markup:
   defaultMarkdownHandler: goldmark
