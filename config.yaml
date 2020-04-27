@@ -25,8 +25,8 @@ params:
   codePenUser: 
   katex: true
 
-menu:
-  nav:
+#menu:
+#  nav:
 #    - name: Home
 #      url: /
  #     weight: 1
