@@ -18,7 +18,7 @@ imaging:
   quality: 99
 
 params:
-  description: j1d1n 
+  #description: 
   homeMetaContent: Ready Player One.
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
