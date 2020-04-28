@@ -12,6 +12,10 @@ Always read something that will make you look good if you die in the middle of i
 
 * [**21 Lessons for the 21st Century**](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century?from_search=true&from_srp=true&qid=CzNjcdJqOe&rank=1) by Yuval Noah Harari
 
+* [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
+
+* [*Deep Work: Rules for Focused Success in a Distracted World*](https://www.goodreads.com/book/show/25744928-deep-work?from_search=true&from_srp=true&qid=XBiYF9z1Dp&rank=1) by Cal Newport
+
 * [*Digital Minimalism: Choosing a Focused Life in a Noisy World*](https://www.goodreads.com/book/show/40672036-digital-minimalism?from_search=true&from_srp=true&qid=nBh8VbUviA&rank=1) by Cal Newport
 
 * [Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future](https://www.goodreads.com/book/show/25563103-elon-musk?ac=1&from_search=true&qid=BQasepZe3F&rank=1) by Ashlee Vance 
