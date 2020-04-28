@@ -117,5 +117,9 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "The reasonable man adapts himself to the world: the unreasonable one persists in trying to adapt the world to himself. Therefore all progress depends on the unreasonable man." 
 {{< /blockquote >}}
 
+{{< blockquote author="Charles Goodhart" >}}
+"When a measure becomes a target, it ceases to be a good measure.”
+{{< /blockquote >}}
+
 
 
