@@ -121,5 +121,9 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "When a measure becomes a target, it ceases to be a good measure.”
 {{< /blockquote >}}
 
+{{< blockquote author="Dalai Lama" >}}
+“When you talk, you are only repeating what you already know. But if you listen, you may learn something new.”
+{{< /blockquote >}}
+
 
 
