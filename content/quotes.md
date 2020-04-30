@@ -125,5 +125,8 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 “When you talk, you are only repeating what you already know. But if you listen, you may learn something new.”
 {{< /blockquote >}}
 
+{{< blockquote author="Friedrich Nietzsche" >}}
+“He who has a why to live for can bear almost any how.”
+{{< /blockquote >}}
 
 
