@@ -1,6 +1,6 @@
 ---
 title: "Atoms, Bits, and Cells"
-date: 2020-03-31T08:28:41+05:30
+date: 2020-04-25T08:28:41+05:30
 draft: false
 ---
 
@@ -18,4 +18,5 @@ Isn't it a no-brainer that we have to innovate on all the 3 levels to make it to
 [^4]: Andrej Karpathy on [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 [^5]: World Economic Forum on [The Fourth Industrial Revolution](https://www.youtube.com/watch?v=khjY5LWF3tg&feature=emb_logo)
 [^6]:According to the astronomer Carl Sagan, humanity is currently going through a phase of technical adolescence, "typical of a civilization about to integrate the type I [Kardashev scale."](https://en.wikipedia.org/wiki/Kardashev_scale)
+
 

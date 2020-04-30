@@ -6,7 +6,7 @@ theme: cupper-hugo-theme
 googleAnalytics: UA-131823651-1
 enableEmoji: true
 disqusShortname: 
-enableGitInfo: true
+enableGitInfo: false
 
 taxonomies:
   tag: tags
