@@ -1,7 +1,7 @@
 ---
 title: "Atoms, Bits, and Cells"
 date: 2020-03-31T08:28:41+05:30
-draft: true
+draft: false
 ---
 
 > #### Atoms and Bits are mingling a lot more now, having existed almost entirely in completely different worlds until a few years ago. 
