@@ -37,6 +37,10 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "No amount of experimentation can ever prove me right; a single experiment can prove me wrong."
 {{< /blockquote >}}
 
+{{< blockquote author="Albert Einstein" >}}
+“We cannot solve our problems with the same thinking we used when we created them."
+{{< /blockquote >}}
+
 {{< blockquote author="Stephen Hawking" >}}
 "Intelligence is the ability to adapt to change."
 {{< /blockquote >}}
