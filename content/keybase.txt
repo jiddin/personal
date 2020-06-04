@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/jidin
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jidin.xyz
+  * I am jidin (https://keybase.io/jidin) on keybase.
+  * I have a public key ASBxQM_dIJ8RQC9nVuyOUm7p2UAaTe6VcBTmZ-KjIZGraAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101ea338d570c16de61a68484294d82ee320c2ccb1d3ecbf00820db646ea22089500a",
+      "host": "keybase.io",
+      "kid": "01207140cfdd209f11402f6756ec8e526ee9d9401a4dee957014e667e2a32191ab680a",
+      "uid": "79222d2b5f447f4d3e3b0ea2c97b4219",
+      "username": "jidin"
+    },
+    "merkle_root": {
+      "ctime": 1591264199,
+      "hash": "2041d316e0834bdea774ce117d281d67a56c0064f2beebc76634ac83591f17e1c2240b313fdc3b31a02ea67f580f6f321a63ce9ce5a28f4b598a61cb4e19ce64",
+      "hash_meta": "ec5be755a542d03433c0e072541cfd40b468f5e8840443f13ea8f8f4744154f2",
+      "seqno": 16522292
+    },
+    "service": {
+      "entropy": "WpoNS2zo0coUbLY4qsJtSFQ4",
+      "hostname": "jidin.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1591264263,
+  "expire_in": 504576000,
+  "prev": "576bf7bb1a9da2b9ef988b8e57f5cde1edd12294228209f561637b8654d9c9f8",
+  "seqno": 5,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgcUDP3SCfEUAvZ1bsjlJu6dlAGk3ulXAU5mfioyGRq2gKp3BheWxvYWTESpcCBcQgV2v3uxqdornvmIuOV/XN4e3RIpQiggn1YWN7hlTZyfjEIEAh/1w0Ottypl8h5juGT2Ra6IsAW/1us0ti3NqvL7M5AgHCo3NpZ8RAcmgfMtdyqxtvP6oHigZP9TNewstbcP3/ZhlZ6TkHjEcSIxuQMzsaydYwslxO6MyzhqytWt9rxQURzcpv0890CKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILdKxwZebmHykqw/8MOnAyKTInyBAHIBydgabjgvwbguo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jidin
+
+==================================================================
