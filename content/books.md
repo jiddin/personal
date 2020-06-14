@@ -14,8 +14,6 @@ Always read something that will make you look good if you die in the middle of i
 
 * [**21 Lessons for the 21st Century**](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century?from_search=true&from_srp=true&qid=CzNjcdJqOe&rank=1) by Yuval Noah Harari
 
-* [A Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)](https://www.goodreads.com/book/show/18693655-a-mind-for-numbers?from_search=true&from_srp=true&qid=aOhNAQ5Ud3&rank=1) by Barbara Oakley
-
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 
 * [*Deep Work: Rules for Focused Success in a Distracted World*](https://www.goodreads.com/book/show/25744928-deep-work?from_search=true&from_srp=true&qid=XBiYF9z1Dp&rank=1) by Cal Newport
@@ -24,7 +22,7 @@ Always read something that will make you look good if you die in the middle of i
 
 * [Fluid: The Approach Applied by Geniuses Over Centuries](https://www.goodreads.com/book/show/41815475-fluid?from_search=true&from_srp=true&qid=Qjbc9bnYGq&rank=1) by Ashish Jaiswal 
 
-* [Homo Deus: A History of Tomorrow](https://www.goodreads.com/book/show/31138556-homo-deus?from_search=true&from_srp=true&qid=AudhmE4LHR&rank=1) by Yuval Noah Harari
+* [*Homo Deus: A History of Tomorrow*](https://www.goodreads.com/book/show/31138556-homo-deus?from_search=true&from_srp=true&qid=AudhmE4LHR&rank=1) by Yuval Noah Harari
 
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?from_search=true&from_srp=true&qid=r0gyfAtilU&rank=1) by Dale Carnegie 
 
