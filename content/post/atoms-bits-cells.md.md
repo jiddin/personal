@@ -1,6 +1,6 @@
 ---
 title: "Atoms, Bits, and Cells"
-date: 2020-04-25T08:28:41+05:30
+date: 2020-06-15T07:32:05+05:30
 draft: false
 ---
 
