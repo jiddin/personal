@@ -1,6 +1,7 @@
 ---
 title: "Atoms, Bits, and Cells"
 date: 2020-06-15T07:32:05+05:30
+tags: [Techno Musing]
 draft: false
 ---
 
