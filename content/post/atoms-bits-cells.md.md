@@ -9,7 +9,7 @@ draft: false
  A **bit** ( or a binary information digit ) is a big deal and make no mistake about it, it really is.
  Though the bit was born only 72 years ago <cite>[^1]</cite> the bit is giving the atom (came about 13.7 billion years ago) and the cell (born some 3.8 billion years ago) a good run for their money. 
  
- Looking back at the last 20 years of innovation<cite>[^2]</cite> or technological progress, hasn't it been mostly, if not entirely about the digital world or the world of bits. Software 1.0 has literally ate the world <cite>[^3]</cite> and is religously being upgraded to Software 2.0 <cite>[^4]</cite>. The boundaries between the physical, digital, and biological worlds is being blurred slowly but steadily, thanks to the emergence and fusion of technologies, characterized by the fourth industrial revolution <cite>[^5]</cite>
+ Looking back at the last 20 years of innovation<cite>[^2]</cite> or technological progress, hasn't it been mostly, if not entirely about the digital world or the world of bits. Software 1.0 has literally ate the world <cite>[^3]</cite> and is religously being upgraded to Software 2.0 <cite>[^4]</cite>. The boundaries between the physical, digital, and biological worlds are being blurred slowly but steadily, thanks to the emergence and fusion of technologies, characterized by the fourth industrial revolution <cite>[^5]</cite>
 
 Isn't it a no-brainer that we have to innovate on all the 3 levels to make it to the next level of civilization <cite>[^6]</cite>.
 
