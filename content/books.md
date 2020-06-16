@@ -38,8 +38,6 @@ Always read something that will make you look good if you die in the middle of i
 
 * [**The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers**](https://www.goodreads.com/book/show/36739769-the-third-door?from_search=true&from_srp=true&qid=4gecFqxNlU&rank=3) by Alex Banayan
 
-* [**_Weaving the Web: The Original Design and Ultimate Destiny of the World Wide Web_**](https://www.goodreads.com/book/show/821987.Weaving_the_Web?from_search=true&from_srp=true&qid=y5dZ8dnZ4z&rank=1) by Tim Berners-Lee
-
 * [*When Breath Becomes Air*](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?from_search=true&from_srp=true&qid=XB6WzqXD0Q&rank=1) by Paul Kalanithi
 
 * [*Who Moved My Cheese?*](https://www.goodreads.com/book/show/4894.Who_Moved_My_Cheese_?from_search=true&from_srp=true&qid=gkqEkbCXk6&rank=1) by Spencer Johnson
