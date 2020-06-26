@@ -61,14 +61,6 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "How we spend our time is the best test of intelligence."
 {{< /blockquote >}}
 
-{{< blockquote author="James Clear" >}}
-"When failure is expensive, plan carefully. When failure is cheap, act quickly."
-{{< /blockquote >}}
-
-{{< blockquote author="Jerry Weintraub" >}}
-"Persistence—it’s a cliché, but it happens to work. The person who makes it is the person who keeps on going after everyone else has quit. This is more important than intelligence, pedigree, even connections. Be dogged! Keep hitting that door until you bust it down!"
-{{< /blockquote >}}
-
 {{< blockquote author="Alvin Toffler" >}}
  “The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.”
 {{< /blockquote >}}
@@ -125,24 +117,8 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 "When a measure becomes a target, it ceases to be a good measure.”
 {{< /blockquote >}}
 
-{{< blockquote author="Dalai Lama" >}}
-“When you talk, you are only repeating what you already know. But if you listen, you may learn something new.”
-{{< /blockquote >}}
-
 {{< blockquote author="Friedrich Nietzsche" >}}
 “He who has a why to live for can bear almost any how.”
 {{< /blockquote >}}
 
-{{< blockquote author="Lao Tzu" >}}
-“Men are born soft and supple;
-dead, they are stiff and hard.
-Plants are born tender and pliant;
-dead, they are brittle and dry.
-Thus whoever is stiff and inflexible
-is a disciple of death.
-Whoever is soft and yielding
-is a disciple of life.
-The hard and stiff will be broken.
-The soft and supple will prevail.”
-{{< /blockquote >}}
 
