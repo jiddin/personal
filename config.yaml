@@ -12,7 +12,7 @@ taxonomies:
   tag: tags
 
 permalinks:
-  post: post/:filename/
+  post: /:filename/
 
 imaging:
   quality: 99
