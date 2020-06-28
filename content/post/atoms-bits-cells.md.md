@@ -2,7 +2,7 @@
 title: "Atoms, Bits, and Cells"
 date: 2020-06-15T07:32:05+05:30
 tags: [Techno Musing]
-draft: false
+draft: true
 ---
 
 > #### Atoms and Bits are mingling a lot more now, having existed almost entirely in completely different worlds until a few years ago. 
