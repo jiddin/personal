@@ -14,6 +14,8 @@ Always read something that will make you look good if you die in the middle of i
 
 * [**21 Lessons for the 21st Century**](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century?from_search=true&from_srp=true&qid=CzNjcdJqOe&rank=1) by Yuval Noah Harari
 
+* [*Anything You Want*](https://www.goodreads.com/book/show/11878168-anything-you-want?from_search=true&from_srp=true&qid=k2ZMjhDqsq&rank=1) by Derek Sivers
+
 * [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits) by James Clear
 
 * [*Deep Work: Rules for Focused Success in a Distracted World*](https://www.goodreads.com/book/show/25744928-deep-work?from_search=true&from_srp=true&qid=XBiYF9z1Dp&rank=1) by Cal Newport
@@ -33,6 +35,8 @@ Always read something that will make you look good if you die in the middle of i
 * [**The Great Mental Models: General Thinking Concepts**](https://www.goodreads.com/book/show/44245196-the-great-mental-models?from_search=true&from_srp=true&qid=6fk5qNYlXt&rank=1) by Shane Parrish
 
 * [**The Great Mental Models, Volume 2: Physics, Chemistry and Biology**](https://www.goodreads.com/book/show/52200318-the-great-mental-models-volume-2?from_search=true&from_srp=true&qid=IqfxbxN2Iw&rank=2) by Shane Parrish
+
+* [*The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career*](https://www.goodreads.com/book/show/12030438-the-start-up-of-you?from_search=true&from_srp=true&qid=15oC4O1vos&rank=1) by Reid Hoffman & Ben Casnocha
 
 * [**The Subtle Art of Not Giving a F*uck: A Counterintuitive approach to Living a Good Life**](https://www.goodreads.com/book/show/39288400-the-subtle-art-of-not-giving-a-f-uck?from_search=true&from_srp=true&qid=iL25SIv3XV&rank=1) by Mark Manson
 
