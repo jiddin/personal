@@ -1,6 +1,7 @@
 ---
 title: "How I read"
 date: 2020-07-09T07:17:37+05:30
+draft: true
 ---
 
 As a reader which camp do you belong to when it comes to books that you don't enjoy reading?
