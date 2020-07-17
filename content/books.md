@@ -29,15 +29,23 @@ Always read something that will make you look good if you die in the middle of i
 
 * [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?from_search=true&from_srp=true&qid=N72ZGKEg8d&rank=1) by Yuval Noah Harari
 
+* [Show Your Work!: 10 Ways to Share Your Creativity and Get Discovered](https://www.goodreads.com/book/show/18290401-show-your-work?from_search=true&from_srp=true&qid=pscfir8lEa&rank=2) by Austin Kleon
+
+* [Steal Like an Artist: 10 Things Nobody Told You About Being Creative](https://www.goodreads.com/book/show/13099738-steal-like-an-artist?from_search=true&from_srp=true&qid=pscfir8lEa&rank=1) by Austin Kleon
+
 * [The Great Mental Models: General Thinking Concepts](https://www.goodreads.com/book/show/44245196-the-great-mental-models?from_search=true&from_srp=true&qid=6fk5qNYlXt&rank=1) by Shane Parrish
 
 * [The Great Mental Models, Volume 2: Physics, Chemistry and Biology](https://www.goodreads.com/book/show/52200318-the-great-mental-models-volume-2?from_search=true&from_srp=true&qid=IqfxbxN2Iw&rank=2) by Shane Parrish
 
-* [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.goodreads.com/book/show/12030438-the-start-up-of-you?from_search=true&from_srp=true&qid=15oC4O1vos&rank=1) by Reid Hoffman & Ben Casnocha
+* [The Industries of the Future](https://www.goodreads.com/book/show/25111341-the-industries-of-the-future?from_search=true&from_srp=true&qid=SulSzioma2&rank=1) by Alec J. Ross
+
+* [The Start-Up of You: Adapt to the Future, Invest in Yourself, and Transform Your Career](https://www.goodreads.com/book/show/12030438-the-start-up-of-you?from_search=true&from_srp=true&qid=15oC4O1vos&rank=1) by Reid Hoffman, Ben Casnocha
 
 * [The Subtle Art of Not Giving a F*uck: A Counterintuitive approach to Living a Good Life](https://www.goodreads.com/book/show/39288400-the-subtle-art-of-not-giving-a-f-uck?from_search=true&from_srp=true&qid=iL25SIv3XV&rank=1) by Mark Manson
 
 * [The Third Door: The Wild Quest to Uncover How the World's Most Successful People Launched Their Careers](https://www.goodreads.com/book/show/36739769-the-third-door?from_search=true&from_srp=true&qid=4gecFqxNlU&rank=3) by Alex Banayan
+
+* [The Unfair Advantage: How You Already Have What It Takes to Succeed](https://www.goodreads.com/book/show/50714359-the-unfair-advantage?from_search=true&from_srp=true&qid=vJeVXJuTmD&rank=3) by Ash Ali, Hasan Kubba
 
 * [When Breath Becomes Air](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air?from_search=true&from_srp=true&qid=XB6WzqXD0Q&rank=1) by Paul Kalanithi
 

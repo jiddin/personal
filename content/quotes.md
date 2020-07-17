@@ -121,4 +121,7 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 “He who has a why to live for can bear almost any how.”
 {{< /blockquote >}}
 
+{{< blockquote author="John Cleese" >}}
+“Creativity is not a talent. It is a way of operating.”
+{{< /blockquote >}}
 
