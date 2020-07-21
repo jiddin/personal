@@ -25,6 +25,12 @@ params:
   codePenUser: 
   katex: true
 
+menu:
+  nav:
+    - name: Posts
+      url: /post/
+      weight: 1
+
 
 
 
