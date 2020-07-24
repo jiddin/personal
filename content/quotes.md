@@ -121,7 +121,23 @@ Please do reach out if you find any discrepancies or errors regarding the correc
 “He who has a why to live for can bear almost any how.”
 {{< /blockquote >}}
 
+{{< blockquote author="John le Carré" >}}
+“‘The cat sat on a mat’ is not a story. ‘The cat sat on the dog’s mat’ is a story.”
+{{< /blockquote >}}
+
 {{< blockquote author="John Cleese" >}}
 “Creativity is not a talent. It is a way of operating.”
+{{< /blockquote >}}
+
+{{< blockquote author="Howard Aiken" >}}
+“Don’t worry about people stealing your ideas. If your ideas are any good, you’ll have to ram them down people’s throats.”
+{{< /blockquote >}}
+
+{{< blockquote author="Henrik Ibsen" >}}
+“The majority is always wrong; the minority is rarely right.”
+{{< /blockquote >}}
+
+{{< blockquote author="Bill Gurley" >}}
+"You can only make money by being right about something that most people think is wrong."
 {{< /blockquote >}}
 
