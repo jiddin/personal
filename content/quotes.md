@@ -1,9 +1,6 @@
 ---
 title: "Assorted collection of favorite quotes"
 ---
-{{< warning >}}
-Please do reach out if you find any discrepancies or errors regarding the correct attribution of quotes.
-{{< /warning >}}
 
 {{< blockquote author="William Gibson" >}}
 "The future is already here – it's just not evenly distributed."
