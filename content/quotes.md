@@ -6,6 +6,10 @@ title: "Assorted collection of favorite quotes"
 "The future is already here – it's just not evenly distributed."
 {{< /blockquote >}}
 
+{{< blockquote author="Maya Angelou" >}}
+"I’ve learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel."
+{{< /blockquote >}}
+
 {{< blockquote author="Paul Kalanithi" >}}
 “You can't ever reach perfection, but you can believe in an asymptote toward which you are ceaselessly striving.”
 {{< /blockquote >}}
@@ -132,6 +136,10 @@ title: "Assorted collection of favorite quotes"
 
 {{< blockquote author="Henrik Ibsen" >}}
 “The majority is always wrong; the minority is rarely right.”
+{{< /blockquote >}}
+
+{{< blockquote author="Walt Disney" >}}
+“We don’t make movies to make money, we make money to make more movies.”
 {{< /blockquote >}}
 
 {{< blockquote author="Bill Gurley" >}}
