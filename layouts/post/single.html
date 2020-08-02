@@ -10,7 +10,7 @@
     <div class="date">
       {{ $dateFormat := $.Site.Params.dateFormat | default "Jan 2, 2006" }}
       {{ $publishDate := .PublishDate }}
-      <strong aria-hidden="true">Publish date: </strong>{{ $publishDate.Format $dateFormat }}
+      <strong aria-hidden="true"> </strong> {{ $publishDate.Format $dateFormat }}
       {{ with .Lastmod }}
         {{ if gt . $publishDate }}
           <br>

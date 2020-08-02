@@ -21,7 +21,7 @@ params:
   description: 
   #homeMetaContent: 
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat: Jan 2, 2006
+  dateFormat: Jan 2006
   codePenUser: 
   katex: true
 
