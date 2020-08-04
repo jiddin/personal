@@ -25,6 +25,8 @@ Always read something that will make you look good if you die in the middle of i
 
 * [How to Win Friends and Influence People](https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People?from_search=true&from_srp=true&qid=r0gyfAtilU&rank=1) by Dale Carnegie 
 
+* [How Will You Measure Your Life?](https://www.goodreads.com/book/show/13425570-how-will-you-measure-your-life) by Clayton M. Christensen, James Allworth, Karen Dillon
+
 * [Human Compatible: Artificial Intelligence and the Problem of Control](https://www.goodreads.com/book/show/44767248-human-compatible?from_search=true&from_srp=true&qid=nvxj26sDkF&rank=1) by Stuart Russell
 
 * [Sapiens: A Brief History of Humankind](https://www.goodreads.com/book/show/23692271-sapiens?from_search=true&from_srp=true&qid=N72ZGKEg8d&rank=1) by Yuval Noah Harari
