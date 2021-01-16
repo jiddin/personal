@@ -1,5 +1,6 @@
 ---
 title: "Bookshelf"
+tags: [draft]
 ---
 
 {{< blockquote author="P.J. O’Rourke" >}}

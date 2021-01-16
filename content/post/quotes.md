@@ -1,5 +1,6 @@
 ---
 title: "Assorted collection of favorite quotes"
+tags: [quotes]
 ---
 
 {{< blockquote author="William Gibson" >}}
