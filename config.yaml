@@ -4,7 +4,7 @@ defaultContentLanguage: en
 title: Jidin Dinesh
 theme: cupper-hugo-theme
 googleAnalytics: UA-123456789-1
-disqusShortname: yourdiscussshortname
+#disqusShortname: yourdiscussshortname
 enableGitInfo: true
 
 taxonomies:
@@ -18,16 +18,15 @@ imaging:
 
 params:
   description: 
-  homeMetaContent: 
-  footer: 
-  # For more date formats see https://gohugo.io/functions/format/
+  homeMetaContent: Home of Jidin Dinesh.  
+  footer: 📧 [Email](mailto:jidin@pm.me)
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
   hideHeaderLinks: false
   search: true
   showThemeSwitcher: true
-  moveFooterToHeader: false
+  moveFooterToHeader: true
   customCss:
     - css/custom_01.css
     - css/custom_02.css
@@ -37,21 +36,18 @@ params:
 
 menu:
   nav:
-    - name: Home
-      url: /
+    - name: Newsletter
+      url: https://newsletter.jidin.co
       weight: 1
     - name: Blog
-      url: /post/
+      url: https://blog.jidin.co
       weight: 2
-    - name: Tags
-      url: /tags/
+    - name: Writing
+      url: /post/
       weight: 3
-    - name: About
-      url: /about/
-      weight: 4
-    - name: RSS
-      url: /index.xml
-      weight: 5
+   # - name: Topics      url: /tags/      weight: 4
+   # - name: Twitter      url: https://twitter.com/jidinium      weight: 4
+    #- name: RSS url: /index.xml weight: 4
 
 markup:
   defaultMarkdownHandler: goldmark
@@ -72,14 +68,14 @@ markup:
       unsafe: true
       xHTML: false
   highlight:
-    codeFences: false
+    codeFences: true
     hl_Lines: ""
     lineNoStart: 1
-    lineNos: false
+    lineNos: true
     lineNumbersInTable: true
     noClasses: true
     style: monokai
     tabWidth: 4
   tableOfContents:
-    endLevel: 6
-    startLevel: 2
+    endLevel: 10
+    startLevel: 1
