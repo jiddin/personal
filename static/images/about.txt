@@ -1,6 +1,0 @@
-This favicon was generated using the following font:
-
-- Font Title: Niramit
-- Font Author: Copyright 2018 the Niramit Project Authors (https://github.com/cadsondemak/Niramit)
-- Font Source: http://fonts.gstatic.com/s/niramit/v5/I_uuMpWdvgLdNxVLbbRQkiCvs5Y.ttf
-- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL)

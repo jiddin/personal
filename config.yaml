@@ -24,7 +24,7 @@ params:
   codePenUser: someUser
   katex: true
   hideHeaderLinks: false
-  search: true
+  search: false
   showThemeSwitcher: true
   moveFooterToHeader: true
   customCss:
