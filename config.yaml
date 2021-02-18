@@ -40,7 +40,7 @@ menu:
       url: /post/
       weight: 1
     - name: Newsletter
-      url: https://getrevue.co/profile/petridish
+      url: https://newsletter.jidin.co
       weight: 3
     - name: Blog
       url: https://blog.jidin.co
