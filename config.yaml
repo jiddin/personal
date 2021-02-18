@@ -19,7 +19,7 @@ imaging:
 params:
   description: 
   homeMetaContent: Home of Jidin Dinesh.  
-  footer: 📧 [Email](mailto:jidin@pm.me)
+  footer: 📧 [Email](mailto:jidin@pm.me) 📥 [DM](https://twitter.com/JidinDinesh)
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
