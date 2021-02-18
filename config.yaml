@@ -36,15 +36,16 @@ params:
 
 menu:
   nav:
-    - name: Newsletter
-      url: https://newsletter.jidin.co
+    - name: Writing
+      url: /post/
       weight: 1
+    - name: Newsletter
+      url: https://getrevue.co/profile/petridish
+      weight: 3
     - name: Blog
       url: https://blog.jidin.co
       weight: 2
-    - name: Writing
-      url: /post/
-      weight: 3
+
    # - name: Topics      url: /tags/      weight: 4
    # - name: Twitter      url: https://twitter.com/jidinium      weight: 4
     #- name: RSS url: /index.xml weight: 4
