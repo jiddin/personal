@@ -19,13 +19,14 @@ imaging:
 params:
   description: 
   homeMetaContent: Home of Jidin Dinesh.  
-  footer: 📧 [Email](mailto:jidin@pm.me) 📥 [DM](https://twitter.com/JidinDinesh)
+  footer: 📧 [Email](mailto:jidin@pm.me) 
+ # 📥 [DM](https://twitter.com/JidinDinesh)
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
   hideHeaderLinks: false
   search: false
-  showThemeSwitcher: true
+  showThemeSwitcher: false
   moveFooterToHeader: true
   customCss:
     - css/custom_01.css
@@ -39,14 +40,12 @@ menu:
     - name: Writing
       url: /post/
       weight: 1
-    - name: Newsletter
-      url: https://newsletter.jidin.co
-      weight: 3
     - name: Blog
       url: https://blog.jidin.co
       weight: 2
 
-   # - name: Topics      url: /tags/      weight: 4
+    #   - name: Newsletter      url: https://newsletter.jidin.co      weight: 3
+    # - name: Topics      url: /tags/      weight: 4
    # - name: Twitter      url: https://twitter.com/jidinium      weight: 4
     #- name: RSS url: /index.xml weight: 4
 
