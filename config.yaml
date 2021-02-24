@@ -19,7 +19,7 @@ imaging:
 params:
   description: 
   homeMetaContent: Home of Jidin Dinesh.  
-  footer:
+  footer: 📧[Email](mailto:jidin@pm.me)
  # 📥 [DM](https://twitter.com/JidinDinesh)
   dateFormat: Jan 2, 2006
   codePenUser: someUser
@@ -43,10 +43,6 @@ menu:
     - name: Petri Dish 🧫
       url: https://blog.jidin.co
       weight: 2
-    - name: Ping 📧
-      url: mailto:jidin@pm.me
-      weight: 3
-
 
     #   - name: Newsletter      url: https://newsletter.jidin.co      weight: 3
     # - name: Topics      url: /tags/      weight: 4
