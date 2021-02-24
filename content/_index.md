@@ -1,9 +1,11 @@
 ---
 date: ""
-title: "👋 Hi, I'm Jidin."
+title: "Welcome to my corner of the interweb."
 ---
 
 
 ![](../EXTRAS/manwalk.gif)
 
-**Welcome to my corner of the interweb.** 
+![](../EXTRAS/footer.svg)
+
+
