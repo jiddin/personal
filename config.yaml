@@ -41,7 +41,7 @@ menu:
       url: /post/
       weight: 1
     - name: Petri Dish 🧫
-      url: https://blog.jidin.co
+      url: https://petridish.jidin.co
       weight: 2
 
     #   - name: Newsletter      url: https://newsletter.jidin.co      weight: 3

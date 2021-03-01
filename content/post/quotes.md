@@ -1,6 +1,7 @@
 ---
 title: "Assorted collection of favorite quotes"
 date: 2020-05-01T10:03:09+05:30
+draft: true
 ---
 
 {{< blockquote author="William Gibson" >}}
