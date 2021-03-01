@@ -3,8 +3,8 @@ languageCode: en-us
 defaultContentLanguage: en
 title: Jidin Dinesh
 theme: cupper-hugo-theme
-googleAnalytics: UA-123456789-1
-#disqusShortname: yourdiscussshortname
+#googleAnalytics: 
+#disqusShortname:
 enableGitInfo: true
 
 taxonomies:

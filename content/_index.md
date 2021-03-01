@@ -1,6 +1,5 @@
 ---
-date: ""
-title: "Welcome to my corner of the interweb."
+title: 
 ---
-![](../EXTRAS/footer.svg)
+
 
