@@ -37,7 +37,7 @@ params:
 
 menu:
   nav:
-    - name: Posts 📌
+    - name: Posts 📜
       url: /post/
       weight: 1
     - name: Petri Dish 🧫
