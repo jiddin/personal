@@ -35,17 +35,19 @@ params:
     - js/custom_02.js
 
 menu:
-#  nav:
-#    - name: Posts 📜
-#      url: /post/
-#      weight: 1
-#    - name: Petri Dish 🧫
-#      url: https://bio.jidin.co
-#      weight: 2
+  nav:
+    - name: Posts 📜
+      url: /post/
+      weight: 1
+    - name: Petri Dish 🧫
+      url: https://bio.jidin.co
+      weight: 2
 
     #   - name: Newsletter      url: https://newsletter.jidin.co      weight: 3
     # - name: Topics      url: /tags/      weight: 4
-   # - name: Twitter      url: https://twitter.com/jidinium      weight: 4
+    - name: Twitter      
+      url: https://twitter.com/JidinDinesh
+      weight: 3
     #- name: RSS url: /index.xml weight: 5
 
 markup:
