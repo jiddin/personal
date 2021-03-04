@@ -45,10 +45,7 @@ menu:
 
     #   - name: Newsletter      url: https://newsletter.jidin.co      weight: 3
     # - name: Topics      url: /tags/      weight: 4
-    - name: Twitter      
-      url: https://twitter.com/JidinDinesh
-      weight: 3
-    #- name: RSS url: /index.xml weight: 5
+   #- name: RSS url: /index.xml weight: 5
 
 markup:
   defaultMarkdownHandler: goldmark
