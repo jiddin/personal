@@ -35,7 +35,7 @@ params:
     - js/custom_02.js
 
 menu:
-  nav:
+#  nav:
 #    - name: Posts 📜
 #      url: /post/
 #      weight: 1
