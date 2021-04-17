@@ -36,12 +36,12 @@ params:
 
 menu:
  nav:
- - name: Writing
-   url: /post/
-   weight: 1
+# - name: Writing
+ #  url: /post/
+ #  weight: 1
  - name: Petri Dish
    url: https://bio.jidin.co
-   weight: 2
+   weight: 1
 
 
     # - name: Topics      url: /tags/      weight: 3
