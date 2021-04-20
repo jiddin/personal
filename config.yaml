@@ -36,12 +36,12 @@ params:
 
 menu:
  nav:
- - name: Newsletter
+ - name: Petri Dish
    url: https://newsletter.jidin.co
-   weight: 2
- - name: Blog
-   url: https://blog.jidin.co
    weight: 1
+ - name: Atoms, Bits, and Cells
+   url: https://blog.jidin.co
+   weight: 2
 
 
     # - name: Topics      url: /tags/      weight: 3
