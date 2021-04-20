@@ -36,9 +36,9 @@ params:
 
 menu:
  nav:
-# - name: Writing
- #  url: /post/
- #  weight: 1
+ - name: Newsletter
+   url: https://newsletter.jidin.co
+   weight: 2
  - name: Blog
    url: https://blog.jidin.co
    weight: 1
