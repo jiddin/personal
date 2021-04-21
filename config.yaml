@@ -34,14 +34,14 @@ params:
     - js/custom_01.js
     - js/custom_02.js
 
-menu:
- nav:
- - name: Petri Dish
-   url: https://newsletter.jidin.co
-   weight: 1
- - name: Atoms, Bits, and Cells
-   url: https://blog.jidin.co
-   weight: 2
+#menu:
+# nav:
+# - name: Petri Dish
+#   url: https://newsletter.jidin.co
+#   weight: 1
+# - name: Atoms, Bits, and Cells
+#   url: https://blog.jidin.co
+#   weight: 2
 
 
     # - name: Topics      url: /tags/      weight: 3
