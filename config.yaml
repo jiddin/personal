@@ -19,7 +19,7 @@ imaging:
 params:
   description: 
   homeMetaContent: Hi, I'm Jidin Dinesh👋.  
-  footer: 📧[Email](mailto:jidin@pm.me) 📥[Twitter](https://twitter.com/JidinDinesh)
+  footer: 📧[Email](mailto:jidin@pm.me) 
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
@@ -34,14 +34,12 @@ params:
     - js/custom_01.js
     - js/custom_02.js
 
-#menu:
-# nav:
-# - name: Petri Dish
-#   url: https://newsletter.jidin.co
-#   weight: 1
-# - name: Atoms, Bits, and Cells
-#   url: https://blog.jidin.co
-#   weight: 2
+menu:
+  nav:
+    - name: Blog
+      url: /post/
+      weight: 1
+
 
 
     # - name: Topics      url: /tags/      weight: 3
