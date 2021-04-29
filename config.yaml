@@ -19,7 +19,7 @@ imaging:
 params:
   description: 
   homeMetaContent: Hi, I'm Jidin Dinesh👋.  
-  footer: 📧[Email](mailto:jidin@pm.me)  📥[Twitter](https://twitter.com/JidinDinesh)
+  footer: 📧[Email](mailto:jidin@pm.me)  🐦[Twitter](https://twitter.com/JidinDinesh)
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
