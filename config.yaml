@@ -34,11 +34,11 @@ params:
     - js/custom_01.js
     - js/custom_02.js
 
-#menu:
-#  nav:
-#    - name: Blog
- #     url: /post/
- #     weight: 1
+menu:
+  nav:
+   - name: Photography
+     url: /photography/
+     weight: 2
 
 
 
