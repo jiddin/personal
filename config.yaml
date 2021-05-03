@@ -39,13 +39,15 @@ menu:
    - name: Blog
      url: /posts/
      weight: 1
+   - name: Newsletter
+     url: https://newsletter.jidin.co
+     weight: 2
+   - name: Photography
+     url: /photos/
+     weight: 3
    - name: Code 
      url: https://gitlab.com/jidin
-     weight: 3
-   - name: Photos 
-     url: /photos/
-     weight: 2
-
+     weight: 4
 
 
     # - name: Topics      url: /tags/      
