@@ -1,5 +1,5 @@
 ---
-title: "Poloroids"
+title: "📸 Snapshots"
 ---
 
 ![](/photos/1.jpg)
