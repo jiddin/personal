@@ -36,13 +36,13 @@ params:
 
 menu:
   nav:
-   - name: Blog
+   - name: blog
      url: /posts/
      weight: 1
-   - name: Code
+   - name: code
      url: https://gitlab.com/jidin
      weight: 3
-   - name: Photography
+   - name: photos
      url: /photos/
      weight: 2
 
