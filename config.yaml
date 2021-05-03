@@ -19,7 +19,7 @@ imaging:
 params:
   description: 
   homeMetaContent: Hi, I'm Jidin Dinesh👋.  
-  footer: 📧[Email](mailto:jidin@pm.me)🐦[Twitter](https://twitter.com/JidinDinesh)
+  footer: →[📧](mailto:jidin@pm.me)  | [🐦](https://twitter.com/JidinDinesh)
   dateFormat: Jan 2, 2006
   codePenUser: someUser
   katex: true
@@ -34,15 +34,15 @@ params:
     - js/custom_01.js
     - js/custom_02.js
 
-menu:
+menu: 
   nav:
-   - name: blog
+   - name: 𝐁𝐥𝐨𝐠 
      url: /posts/
      weight: 1
-   - name: code
+   - name: 𝐂𝐨𝐝𝐞 
      url: https://gitlab.com/jidin
      weight: 3
-   - name: photos
+   - name: 𝐏𝐡𝐨𝐭𝐨𝐬 
      url: /photos/
      weight: 2
 
