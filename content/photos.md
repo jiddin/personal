@@ -13,8 +13,6 @@ title: "Snapshots"
 ![](/photos/22.jpeg)
 ![](/photos/27.jpeg)
 ![](/photos/20.jpeg)
-![](/photos/4.jpeg)
-![](/photos/12.jpg)
 ![](/photos/14.jpeg)
 ![](/photos/23.jpg)
 ![](/photos/16.jpeg)
