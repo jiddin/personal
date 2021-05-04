@@ -36,10 +36,10 @@ params:
 
 menu: 
   nav:
-   - name: 📔 Blog
+   - name: 📜 Blog
      url: /post/
      weight: 1
-   - name: 📰 Newsletter
+   - name: 🗞 Newsletter
      url: https://newsletter.jidin.co
      weight: 2
    - name: 📸 Photography
