@@ -1,5 +1,5 @@
 ---
-title: "Snapshots 📸"
+title: "Snapshots"
 ---
 ![](/photos/1.jpg)
 ![](/photos/10.png)
