@@ -46,7 +46,7 @@ menu:
      url: /photos/
      weight: 3
    - name: 💻 Code
-     url: https://bitbucket.org/jidin
+     url: https://gitlab.com/jidin
      weight: 4
 
 
