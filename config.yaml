@@ -39,9 +39,9 @@ menu:
    - name: 📜 Blog
      url: /post/
      weight: 1
-   - name: 🗞 Newsletter
-     url: https://newsletter.jidin.co
-     weight: 4
+#   - name: 🗞 Newsletter
+ #    url: https://newsletter.jidin.co
+  #   weight: 4
    - name: 📸 Photos
      url: /photos/
      weight: 3
