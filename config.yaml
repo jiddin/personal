@@ -48,9 +48,9 @@ menu:
    - name: 📓 Notes
      url: /notes/
      weight: 2     
-   - name: 💻 Code
-     url: https://gitlab.com/jidin
-     weight: 5
+   #- name: 💻 Code
+   #  url: https://gitlab.com/jidin
+    # weight: 5
 
 
     # - name: Topics      url: /tags/      
