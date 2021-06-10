@@ -42,9 +42,9 @@ menu:
 #   - name: 🗞 Newsletter
  #    url: https://newsletter.jidin.co
   #   weight: 4
-   - name: 📸 Photos
-     url: /photos/
-     weight: 3
+  # - name: 📸 Photos
+ #    url: /photos/
+  #   weight: 3
    - name: 📓 Notes
      url: /notes/
      weight: 2     
