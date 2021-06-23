@@ -36,7 +36,7 @@ params:
 
 menu: 
   nav:
-   - name: 📜 Blog
+   - name: 📜 Essays
      url: /post/
      weight: 1
 #   - name: 🗞 Newsletter
