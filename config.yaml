@@ -36,7 +36,7 @@ params:
 
 menu: 
   nav:
-   - name: 📝 Essays
+   - name: 📓Blog
      url: /post/
      weight: 1
 #   - name: 🗞 Newsletter
@@ -45,7 +45,7 @@ menu:
   # - name: 📸 Photos
  #    url: /photos/
   #   weight: 3
-   - name: 📓 Notes
+   - name: 📝Notes
      url: /notes/
      weight: 2     
    #- name: 💻 Code
