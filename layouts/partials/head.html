@@ -41,7 +41,15 @@
       opacity: 0;
     }
   </style>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1G9M99QCDN"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-1G9M99QCDN');
+</script>
   <link rel="stylesheet" href="{{ "css/prism.css" | relURL }}" media="none" onload="this.media='all';">
 
   {{ $templateStyles := resources.Get "css/template-styles.css" }}
